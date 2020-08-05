@@ -1,12 +1,12 @@
 ### About me  
 
-You can use the [editor on GitHub](https://github.com/abhinavgudipati/abhinavgudipati.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the field of Medicine and Healthcare. I am also an occasional writer. I usually pen my thoughts on my blog. Check it out if that interests you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume
 
-Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the field of Medicine and Healthcare. 
-### Projects 
+Will be adding the link to this section once I am done with my 3rd semester in college. 
 
+### Important Personal Projects 
 
 ```markdown
 Syntax highlighted code block
@@ -21,6 +21,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Important Course Projects 
+
+
 
 ### Education
 
@@ -46,20 +49,24 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
    - A part of the winning team that won the 1st place in the **Antimicrobial Stewardship Platform** problem statement sponsored by **Amazon Web Services**.
    - Our victory bagged us a prize money of *1.5 Lakh Rupees* as well as an opportunity to work along with Amazon Web Services for an extended period of time. 
-   - 
 
+### Positions of Responsibility
 
+- Student 
 ### Contact
  
-- [Linkedin](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
+- **Linkedin** [Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
 
-- **Github**  https://github.com/abhinavgudipati
+- **Github**  [abhinavgudipati](https://github.com/abhinavgudipati)
 
-- **College/Work Email (active)**  abhinav19227@iiitd.ac.in
+- **Twitter** [AbhinavGudipati](https://twitter.com/AbhinavGudipati) *Although I don't really use Social Media Applications other than Linkedin* 
 
-- **Personal Email (occasionally active)**  gabhinavs12@gmail.com
+- **College/Work Email (active)**  [abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)
+
+- **Personal Email (occasionally active)**  [gabhinavs12@gmail.com]gabhinavs12@gmail.com
  
 - **Phone Number (India)**  +91 6305356072 
+
 
 
 
