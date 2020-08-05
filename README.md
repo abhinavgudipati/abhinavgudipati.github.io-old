@@ -30,10 +30,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Education
 
-1) BTech || IIIT Delhi || Computer Science and Applied Math 
+1) **BTech || IIIT Delhi || Computer Science and Applied Math** 
+
 Pursuing my Bachelor's in engineering degree in one of the top 10 institutes for Computer Science in India. My intended major is Computer Science and Applied Math, and I am looking forward to also pursue a minor degree in Entrepreunership. 
 
-2) CBSE Class 12 || Indian School Muscat || Oman  
+2) **CBSE Class 12 || Indian School Muscat || Oman ** 
+
 Scored a 94% in my CBSE Board Exams
 ### Achievements 
 
@@ -46,15 +48,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Contact
  
-Linkedin || https://www.linkedin.com/in/abhinav-gudipati-609794197/
+**Linkedin** | https://www.linkedin.com/in/abhinav-gudipati-609794197/
 
-Github || https://github.com/abhinavgudipati
+**Github** | https://github.com/abhinavgudipati
 
-College/Work Email (active) || abhinav19227@iiitd.ac.in
+**College/Work Email (active)** | abhinav19227@iiitd.ac.in
 
-Personal Email (occasionally active) || gabhinavs12@gmail.com
+**Personal Email (occasionally active)** | gabhinavs12@gmail.com
  
-Phone Number (India) || +91 6305356072 
+**Phone Number (India)** | +91 6305356072 
 
 
 
