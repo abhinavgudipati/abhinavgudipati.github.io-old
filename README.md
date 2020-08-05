@@ -1,4 +1,4 @@
-## About me  
+### About me  
 
 You can use the [editor on GitHub](https://github.com/abhinavgudipati/abhinavgudipati.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -40,8 +40,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Support or Contact
+### Contact
+ 
+Linkedin - https://www.linkedin.com/in/abhinav-gudipati-609794197/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Github - https://github.com/abhinavgudipati
+
+College/Work Email (active) - abhinav19227@iiitd.ac.in
+
+Personal Email (occasionally active) - gabhinavs12@gmail.com
+
+Phone Number (India) - +91 6305356072 
+
 
 
