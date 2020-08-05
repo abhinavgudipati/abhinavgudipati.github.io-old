@@ -42,15 +42,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Contact
  
-#### Linkedin - https://www.linkedin.com/in/abhinav-gudipati-609794197/
+##### Linkedin - https://www.linkedin.com/in/abhinav-gudipati-609794197/
 
-#### Github - https://github.com/abhinavgudipati
+##### Github - https://github.com/abhinavgudipati
 
-#### College/Work Email (active) - abhinav19227@iiitd.ac.in
+##### College/Work Email (active) - abhinav19227@iiitd.ac.in
 
-#### Personal Email (occasionally active) - gabhinavs12@gmail.com
+##### Personal Email (occasionally active) - gabhinavs12@gmail.com
  
-#### Phone Number (India) - +91 6305356072 
+##### Phone Number (India) - +91 6305356072 
 
 
 
