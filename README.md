@@ -51,7 +51,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contact
  
-- **Linkedin**  https://www.linkedin.com/in/abhinav-gudipati-609794197/
+- [Linkedin](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
 
 - **Github**  https://github.com/abhinavgudipati
 
