@@ -23,7 +23,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Important Course Projects 
 
+### Internship Experience 
 
+- Proctor & Gamble ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
 
 ### Education
 
@@ -54,18 +56,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 - Student 
 ### Contact
- 
+
+- **Personal Blog** [Blog]()
+
 - **Linkedin** [Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
 
 - **Github**  [abhinavgudipati](https://github.com/abhinavgudipati)
 
-- **Twitter** [AbhinavGudipati](https://twitter.com/AbhinavGudipati) *Although I don't really use Social Media Applications other than Linkedin* 
+- **Twitter** [AbhinavGudipati](https://twitter.com/AbhinavGudipati) *I don't really use any-other Social Media Applications other than Linkedin* 
 
 - **College/Work Email (active)**  [abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)
 
-- **Personal Email (occasionally active)**  [gabhinavs12@gmail.com]gabhinavs12@gmail.com
+- **Personal Email (occasionally active)**  [gabhinavs12@gmail.com](gabhinavs12@gmail.com)
  
 - **Phone Number (India)**  +91 6305356072 
+
 
 
 
