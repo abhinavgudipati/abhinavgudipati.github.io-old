@@ -6,7 +6,7 @@ Hi there! Welcome to my personal website, where I host all my projects and my ac
 
 Will be adding the link to this section once I am done with my 3rd semester in college. 
 
-### Important Personal Projects 
+### Personal Projects 
 - **Among Us Game Prototype** 
   - Developed a perfectly working prototype of the Orginal AmongUs game. Developed in Java. 
   - This is a Non-GUI game. Which means you can play only on the Terminal.
@@ -19,9 +19,9 @@ Will be adding the link to this section once I am done with my 3rd semester in c
   - This is a GUI working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
   - [Source Code](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)
   
-### Important Course Projects 
+### Course Projects 
 
-- **Semester Project - COLOR SWITCH - Advanced Programming**
+- **Semester Project - Color Switch - Advanced Programming**
   - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in Java and JavaFx interface. 
   - Used Object Oriented Programming Principles as well as Data structures for our project. 
   - [Source Code](https://github.com/abhinavgudipati/ColorSwitch-1)
