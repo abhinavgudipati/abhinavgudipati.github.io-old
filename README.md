@@ -47,6 +47,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Consumer Culture and Society 
 - Key Concepts in Economic Sociology 
 
+### My writing projects 
+
+- Gender Specific Rights for India's White Collar Jobs - [Article](https://docs.google.com/document/d/1GYq4dZ2kMJE2w0Uh60G_nq3W1q-mrBHq_h9MFl4ook8/edit?usp=sharing)
+- 
 ### Internship Experience 
 
 - Proctor & Gamble ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
