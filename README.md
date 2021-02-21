@@ -76,8 +76,8 @@ Hi there! Welcome to my Personal Website, where I host all my projects and my ac
 
 ### Internship Experience 
 
-- **Proctor & Gamble** 
 ![Image](https://i.postimg.cc/GpVQqXQR/Procter-Gamble-Logo.jpg)
+- **Proctor & Gamble** 
   - 
 
 ### Education
