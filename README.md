@@ -1,27 +1,27 @@
 ### About me  
 ![Image](https://i.postimg.cc/fyZbshKv/abhinav.jpg)
 
-Hi there! Welcome to my Personal Website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the intersection of Medicine, Healthcare and Computer Science. 
+Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting **Reasearch Projects** in the intersection of **Medicine**, **Healthcare** and **Computer Science**. 
 
 
 ### Personal Projects 
 - **Among Us Game Prototype** 
-  - Developed a perfectly working prototype of the Orginal AmongUs game. Developed in Java. 
-  - This is a Non-GUI game. Which means you can play only on the Terminal.
+  - Developed a perfectly working **prototype** of the Orginal **AmongUs** game. Developed in **Java**. 
+  - This is a **Non-GUI** game. Which means you can play only on the **Terminal**.
   - [Source Code](https://github.com/abhinavgudipati/AmongUs-Game)
 - **Healthcare Institute Management System**
-  - Developed a perfectly working prototype of a normal Healthcare Institute Management System followed in Hospitals. Developed in Java
-  - This is a Non-GUI working program. Which means you can play run it on the Terminal.
+  - Developed a perfectly working prototype of a normal Healthcare Institute Management System followed in Hospitals. Developed in **Java**
+  - This is a **Non-GUI** working program. Which means you can play run it on the **Terminal**.
   - [Source Code](https://github.com/abhinavgudipati/Healthcare-Management-System)
 - **COVID Patient Management System**
-  - This is a GUI working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
+  - This is a **GUI** working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
   - [Source Code](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)
   
 ### Course Projects 
 
 - **Semester Project - Color Switch - Advanced Programming**
-  - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in Java and JavaFx interface. 
-  - Used Object Oriented Programming Principles as well as Data structures for our project. 
+  - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in **Java** and **JavaFx** interface. 
+  - Used **Object Oriented Programming Principles** as well as **Data structures** for our project. 
   - [Source Code](https://github.com/abhinavgudipati/ColorSwitch-1)
 - **Brick Breaker - Object Oriented Programming**
   - Developed a small brick breaking game to get myself acquainted with Java GUI and Javafx
@@ -31,7 +31,7 @@ Hi there! Welcome to my Personal Website, where I host all my projects and my ac
 - **2 Pass Assembler - Computer Architecture and Organization**
   - [Source Code](https://github.com/abhinavgudipati/2-Pass-Assembler-Project-)
 - **Smart Walking Stick - Prototying Interactive Systems**
-  - A trio-group project, where we collectively worked on creating a Smart Walking Stick which was selected among the projects to be showcased in an IIT Delhi Science Conclave which was supposed to be held in March 2020. The conclave was resinded. This project got us introduced to work ethic within a team, and more importantly created a lifetime's worth of memories owing to the uncompromising discussions and collaboration for the creation of our project. 
+  - A **trio-group** project, where we collectively worked on creating a Smart Walking Stick which was selected among the projects to be showcased in an **IIT Delhi** Science Conclave which was supposed to be held in March 2020. The conclave was resinded owing to prevailing COVID situation. This project got us introduced to work ethic within a team, and more importantly created a lifetime's worth of memories owing to the uncompromising discussions and collaboration for the creation of our project. 
   - [Website](https://anoushka19235.wixsite.com/majorprojectt60)
   - [Youtube Video](https://www.youtube.com/watch?v=ARQyX3yh9Os)
 
@@ -84,9 +84,9 @@ Hi there! Welcome to my Personal Website, where I host all my projects and my ac
 
 - **BTech** : **IIIT Delhi** : **Computer Science and Applied Math** 
 
-  - Pursuing my Bachelor's in engineering degree in one of the top 10 institutes for Computer Science in India. 
-  - Major : Computer Science and Applied Math
-  - Aspiring to secure a minor in Computational Biology towards the last couple of semesters. 
+  - Pursuing my Bachelor's in engineering degree in one of the **top 10 institutes** for **Computer Science** in India. 
+  - **Major** : Computer Science and Applied Math
+  - Aspiring to secure a **minor** in **Computational Biology** towards the last couple of semesters. 
 
 - **CBSE Class 12** : **Indian School Muscat,Oman** 
 
@@ -108,20 +108,20 @@ Hi there! Welcome to my Personal Website, where I host all my projects and my ac
    
 - **Recepient** : **SPDC Scholarship**
 
-   -  Recipient of the SPDC Scholarship by the Ministry of Educational Affairs of the Government of India. Curated for students of Indian origin living abroad, who have taken admission in India. 
-   - Awarded to only top 150 students among 2000+ NRI applicants from across several institutions of National Importance across the country. 
-   - Ranked 40 out of the top 150 applicants, and among the 2 students of my college to have secured the scholarship.
+   -  Recipient of the SPDC Scholarship by the **Ministry of Educational Affairs** of the **Government of India**. Curated for students of Indian origin living abroad, who have taken admission in India. 
+   - Awarded to only **top 150 students** among **2000+ NRI applicants** from across several institutions of National Importance across the country. 
+   - **Ranked 40** out of the top 150 applicants, and among the 2 students of my college to have secured the scholarship.
 
 - **Kanak Khimji Award for Academic Excellence : Class 12 and Class 10**
 
-   - Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the top 10% of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my high school. 
+   - Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the **top 10%** of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my High School. 
 
 ### Positions of Responsibility
 
 - **Student Council : CSAM Batch Representative** 
-   - Batch representative of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
+   - **Batch representative** of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
 - **Mess and Hostel Committee : 1st Year Reprsentative**
-   - Was the student POC for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
+   - Was the student **POC** for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
  
 ### Contact
 
