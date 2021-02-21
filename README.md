@@ -10,7 +10,10 @@ Will be adding the link to this section once I am done with my 3rd semester in c
 
 ### Important Course Projects 
 
-- **Semester Project - Advanced Programming**
+- **Semester Project - COLOR SWITCH - Advanced Programming**
+  - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in Java and JavaFx interface. 
+  - Used Object Oriented Programming Principles as well as Data structures for our project. 
+  - [Project](https://github.com/abhinavgudipati/ColorSwitch-1)
 
 ### Computer Science Coursework 
 
