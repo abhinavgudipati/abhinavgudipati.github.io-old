@@ -50,7 +50,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### My writing projects 
 
 - Gender Specific Rights for India's White Collar Jobs - [Article](https://docs.google.com/document/d/1GYq4dZ2kMJE2w0Uh60G_nq3W1q-mrBHq_h9MFl4ook8/edit?usp=sharing)
-- 
+- Case Study of Truth and Malfeasance : Theranos - [Article](https://docs.google.com/document/d/16eZdVhvulQopsvFMkspikCSbr6QFHqzc8H9HfGhpnj4/edit?usp=sharing)
+- Sociological Perspective of the Impact of Demonetization as a Policy - [Article](https://docs.google.com/document/d/1oOPskJLzVb0IODeNgVZS_2s2KBDjKp7vdYMH_jcEc_Q/edit?usp=sharing)
+- Implication of perusing Money as a form of payment for labour in the Capitalist Model - [Article](https://docs.google.com/document/d/16esEoFeY2RDqTm0Zovnifujy31u0FBMeL93-QyThw6A/edit?usp=sharing)
+- Gifting Culture in Dravidian Telugu Bramhin Communities - [Article](https://docs.google.com/document/d/1OouCVXz1feIsvUnZxgTL7JvzLnTACZQ373i1htX-UZw/edit?usp=sharing)
+
 ### Internship Experience 
 
 - Proctor & Gamble ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
