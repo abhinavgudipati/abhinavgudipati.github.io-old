@@ -23,6 +23,30 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Important Course Projects 
 
+### Important Coursework 
+
+- Quantitative Biology - Computational Bio 
+- Analysis and Design of Algorithms - CSE 
+- Theory of Computation - CSE 
+- Adv Differential Equations - Math 
+- Abstract Algebra - Math
+- Linear Algebra - Math
+- Probability and Statistics 
+- Advanced Programming : CSE 
+- Real Analysis : Math
+- Discrete Structures : Math 
+- Operating Systems : CSE 
+- Data Structures and Algorithms : CSE
+- Computere Organization : CSE 
+- Introduction to Programming : CSE 
+- Prototyping Interactive Systems : DES 
+
+### Sociology Related Coursework 
+
+- Commmunication Skills 
+- Consumer Culture and Society 
+- Key Concepts in Economic Sociology 
+
 ### Internship Experience 
 
 - Proctor & Gamble ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
@@ -58,13 +82,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
    - Awarded to only top 150 students among 2000+ NRI applicants from across several institutions of National Importance across the country. 
    - Ranked 40 out of the top 150 applicants, and among the 2 students of my college to have secured the scholarship.
 
-- **Kanak Khimji Award for Academic Excellence** **Class 12** **Class 10 **
+- **Kanak Khimji Award for Academic Excellence** **Class 12 Class 10**
 
    - Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the top 10% of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my high school. 
 
 ### Positions of Responsibility
 
-- **Student Council** : **CSAM Batch Representative** 
+- **Student Council : CSAM Batch Representative** 
    - Batch representative of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
 - **Mess and Hostel Committee : 1st Year Reprsentative**
    - Was the student POC for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
