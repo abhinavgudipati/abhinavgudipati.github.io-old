@@ -60,11 +60,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 - **Kanak Khimji Award for Academic Excellence** **Class 12** **Class 10 **
 
-   -  Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the top 10% of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my high school. 
+   - Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the top 10% of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my high school. 
 
 ### Positions of Responsibility
 
-- Student 
+- **Student Council** : **CSAM Batch Representative** 
+   - Batch representative of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
+- **Mess and Hostel Committee : 1st Year Reprsentative**
+   - Was the student POC for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
+ 
 ### Contact
 
 - **Personal Blog** [Blog]()
