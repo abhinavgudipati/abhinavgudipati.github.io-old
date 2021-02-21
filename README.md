@@ -7,7 +7,18 @@ Hi there! Welcome to my personal website, where I host all my projects and my ac
 Will be adding the link to this section once I am done with my 3rd semester in college. 
 
 ### Important Personal Projects 
-
+- **Among Us Game Prototype** 
+  - Developed a perfectly working prototype of the Orginal AmongUs game. Developed in Java. 
+  - This is a Non-GUI game. Which means you can play only on the Terminal.
+  - [Source Code](https://github.com/abhinavgudipati/AmongUs-Game)
+- **Healthcare Institute Management System**
+  - Developed a perfectly working prototype of a normal Healthcare Institute Management System followed in Hospitals. Developed in Java
+  - This is a Non-GUI working program. Which means you can play run it on the Terminal.
+  - [Source Code](https://github.com/abhinavgudipati/Healthcare-Management-System)
+- **COVID Patient Management System**
+  - This is a GUI working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
+  - [Source Code](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)
+  
 ### Important Course Projects 
 
 - **Semester Project - COLOR SWITCH - Advanced Programming**
