@@ -49,7 +49,7 @@ Will be adding the link to this section once I am done with my 3rd semester in c
 - How does the COVID Outbreak mark an outset of a Sustainable Consumption Transition? - [Article](https://docs.google.com/document/d/19Pc7lOg6NhnTrJ5R1fD63rCEgdWemF-ArfB5MPYB4RA/edit?usp=sharing)
 - Digital Minimalism - For who and why? - [Article](https://docs.google.com/document/d/1KsVQGX5PUCC4LjyAddSy_DY-yna1puhYH5vmfyQEvvs/edit?usp=sharing)
 - The Unsustainability of Gentrification in India: The Need for Sustainable Urbanization for People, Not for Profit - [Article](https://docs.google.com/document/d/18qVU1Shb4EC4nztLU5Qn4ivBPhUuz4BOLXLUh3dg3JI/edit?usp=sharing)
-- Intersecional Analysis and in Social Inequalities and Consumerism - [Article](https://docs.google.com/document/d/1x5u2gIyBuuLDwGioWeeFAbqQCq7rVFZBjPmoErfkKqg/edit?usp=sharing)
+- Intersecional Analysis in Social Inequalities and Consumerism - [Article](https://docs.google.com/document/d/1x5u2gIyBuuLDwGioWeeFAbqQCq7rVFZBjPmoErfkKqg/edit?usp=sharing)
 
 ### Internship Experience 
 
