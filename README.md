@@ -1,6 +1,6 @@
 ### About me  
 
-Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the field of Medicine and Healthcare. I am also an occasional writer. I usually pen my thoughts on my blog. Check it out if that interests you!
+Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the field of Medicine and Healthcare. 
 
 ### Resume
 
@@ -23,27 +23,31 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Important Course Projects 
 
-### Important Coursework 
+- **Semester Project - Advanced Programming**
+
+### Computer Science Coursework 
 
 - Quantitative Biology - Computational Bio 
 - Analysis and Design of Algorithms - CSE 
 - Theory of Computation - CSE 
-- Adv Differential Equations - Math 
-- Abstract Algebra - Math
-- Linear Algebra - Math
 - Probability and Statistics 
 - Advanced Programming : CSE 
-- Real Analysis : Math
-- Discrete Structures : Math 
 - Operating Systems : CSE 
 - Data Structures and Algorithms : CSE
 - Computere Organization : CSE 
 - Introduction to Programming : CSE 
 - Prototyping Interactive Systems : DES 
 
-### Sociology Related Coursework 
+### Math Coursework 
 
-- Commmunication Skills 
+- Discrete Structures : Math 
+- Real Analysis : Math
+- Adv Differential Equations - Math 
+- Abstract Algebra - Math
+- Linear Algebra - Math
+
+### Economics and Sociology related coursework 
+
 - Consumer Culture and Society 
 - Key Concepts in Economic Sociology 
 
@@ -57,7 +61,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Internship Experience 
 
-- Proctor & Gamble ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
+- **Proctor & Gamble** ![Image](https://staticseekingalpha1.a.ssl.fastly.net/images/marketing_images/fair_use_logos_products/sacl_pg_procter_gamble_logo.jpg)
 
 ### Education
 
@@ -109,13 +113,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 - **Github**  [abhinavgudipati](https://github.com/abhinavgudipati)
 
-- **Twitter** [AbhinavGudipati](https://twitter.com/AbhinavGudipati) *I don't really use any-other Social Media Applications other than Linkedin* 
+- **Instagram** [abhinavvgudipatii](https://www.instagram.com/abhinavvgudipatii/)
 
-- **College/Work Email (active)**  [abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)
-
-- **Personal Email (occasionally active)**  [gabhinavs12@gmail.com](gabhinavs12@gmail.com)
- 
-- **Phone Number (India)**  +91 6305356072 
+- **Work Email**  [abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)
 
 
 
