@@ -1,8 +1,4 @@
 ### About me  
-
-![Image](https://github.com/abhinavgudipati/abhinavgudipati.github.io/blob/master/abhinav.jpeg)
-dpmain{: .dp}
-
 Hi there! Welcome to my Personal Website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the intersection of Medicine, Healthcare and Computer Science. 
 
 
