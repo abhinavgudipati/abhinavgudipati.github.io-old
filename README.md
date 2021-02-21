@@ -1,10 +1,6 @@
 ### About me  
 
-Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the intersection of Medicine, Healthcare and Computer Science. 
-
-### Resume
-
-Will be adding the link to this section once I am done with my 3rd semester in college. 
+Hi there! Welcome to my Personal Website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the intersection of Medicine, Healthcare and Computer Science. 
 
 ### Personal Projects 
 - **Among Us Game Prototype** 
