@@ -58,6 +58,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Sociological Perspective of the Impact of Demonetization as a Policy - [Article](https://docs.google.com/document/d/1oOPskJLzVb0IODeNgVZS_2s2KBDjKp7vdYMH_jcEc_Q/edit?usp=sharing)
 - Implication of perusing Money as a form of payment for labour in the Capitalist Model - [Article](https://docs.google.com/document/d/16esEoFeY2RDqTm0Zovnifujy31u0FBMeL93-QyThw6A/edit?usp=sharing)
 - Gifting Culture in Dravidian Telugu Bramhin Communities - [Article](https://docs.google.com/document/d/1OouCVXz1feIsvUnZxgTL7JvzLnTACZQ373i1htX-UZw/edit?usp=sharing)
+- My personal views on the Social Consumption of Education in India - [Article](https://docs.google.com/document/d/1xyj0d0Nis7o9x-ra0eD9mdVRrnV4TggD7YZB-9tIx_g/edit?usp=sharing)
+- How does the COVID Outbreak mark an outset of a Sustainable Consumption Transition? - [Article](https://docs.google.com/document/d/19Pc7lOg6NhnTrJ5R1fD63rCEgdWemF-ArfB5MPYB4RA/edit?usp=sharing)
+- Digital Minimalism - For who and why? - [Article](https://docs.google.com/document/d/1KsVQGX5PUCC4LjyAddSy_DY-yna1puhYH5vmfyQEvvs/edit?usp=sharing)
+- The Unsustainability of Gentrification in India: The Need for Sustainable Urbanization for People, Not for Profit - [Article](https://docs.google.com/document/d/18qVU1Shb4EC4nztLU5Qn4ivBPhUuz4BOLXLUh3dg3JI/edit?usp=sharing)
+- Intersecional Analysis and in Social Inequalities and Consumerism - [Article](https://docs.google.com/document/d/1x5u2gIyBuuLDwGioWeeFAbqQCq7rVFZBjPmoErfkKqg/edit?usp=sharing)
 
 ### Internship Experience 
 
