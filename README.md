@@ -78,7 +78,7 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ![Image](https://i.postimg.cc/GpVQqXQR/Procter-Gamble-Logo.jpg)
 - **Proctor & Gamble** 
-  - Pursued a 2-month apprenticeship/internship in the field of Supply Chain Management post my Board Examinations. Meticulously documented my observations as a part of the internship project along with 3 other case studies involving large hypermarkets and their model of functioning in accordance with the Supply Chain of goods. 
+  - Pursued a **2-month apprenticeship/internship** in the field of **Supply Chain Management** post my Board Examinations. Meticulously documented my observations as a part of the Internship Project along with 3 other case studies involving large hypermarkets and their model of functioning in accordance with the Supply Chain of goods. 
 
 ### Education
 
