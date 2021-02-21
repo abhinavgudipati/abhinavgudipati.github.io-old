@@ -85,7 +85,8 @@ Will be adding the link to this section once I am done with my 3rd semester in c
 - **BTech** : **IIIT Delhi** : **Computer Science and Applied Math** 
 
   - Pursuing my Bachelor's in engineering degree in one of the top 10 institutes for Computer Science in India. 
-  - My intended major is Computer Science and Applied Math, and I am looking forward to also pursue a minor degree in Entrepreunership. 
+  - Major : Computer Science and Applied Math
+  - Aspiring to secure a minor in Computational Biology towards the last couple of semesters. 
 
 - **CBSE Class 12** : **Indian School Muscat,Oman** 
 
