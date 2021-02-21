@@ -1,6 +1,6 @@
 ### About me  
 
-Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the field of Medicine and Healthcare. 
+Hi there! Welcome to my personal website, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting reasearch projects in the intersection of Medicine, Healthcare and Computer Science. 
 
 ### Resume
 
@@ -8,19 +8,6 @@ Will be adding the link to this section once I am done with my 3rd semester in c
 
 ### Important Personal Projects 
 
-```markdown
-Syntax highlighted code block
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Important Course Projects 
 
 - **Semester Project - Advanced Programming**
@@ -112,15 +99,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
  
 ### Contact
 
-- **Personal Blog** [Blog]()
+- **Linkedin** *[Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)*
 
-- **Linkedin** [Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
+- **Github**  *[abhinavgudipati](https://github.com/abhinavgudipati)*
 
-- **Github**  [abhinavgudipati](https://github.com/abhinavgudipati)
+- **Instagram** *[abhinavvgudipatii](https://www.instagram.com/abhinavvgudipatii/)*
 
-- **Instagram** [abhinavvgudipatii](https://www.instagram.com/abhinavvgudipatii/)
-
-- **Work Email**  [abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)
+- **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
 
 
 
