@@ -13,7 +13,18 @@ Will be adding the link to this section once I am done with my 3rd semester in c
 - **Semester Project - COLOR SWITCH - Advanced Programming**
   - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in Java and JavaFx interface. 
   - Used Object Oriented Programming Principles as well as Data structures for our project. 
-  - [Project](https://github.com/abhinavgudipati/ColorSwitch-1)
+  - [Source Code](https://github.com/abhinavgudipati/ColorSwitch-1)
+- **Brick Breaker - Object Oriented Programming**
+  - Developed a small brick breaking game to get myself acquainted with Java GUI and Javafx
+  - [Source Code](https://github.com/abhinavgudipati/Brick-Breaker)
+- **Booth Algorithm for Multiplication - Computer Architecture and Organization**
+  - [Source Code](https://github.com/abhinavgudipati/Booth-Algorithm-for-Multiplication-)
+- **2 Pass Assembler - Computer Architecture and Organization**
+  - [Source Code](https://github.com/abhinavgudipati/2-Pass-Assembler-Project-)
+- **Smart Walking Stick - Prototying Interactive Systems**
+  - A trio-group project, where we collectively worked on creating a Smart Walking Stick which was selected among the projects to be showcased in an IIT Delhi Science Conclave which was supposed to be held in March 2020. The conclave was resinded. This project got us introduced to work ethic within a team, and more importantly created a lifetime's worth of memories owing to the uncompromising discussions and collaboration for the creation of our project. 
+  - [Website](https://anoushka19235.wixsite.com/majorprojectt60)
+  - [Youtube Video](https://www.youtube.com/watch?v=ARQyX3yh9Os)
 
 ### Computer Science Coursework 
 
