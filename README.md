@@ -58,7 +58,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
    - Awarded to only top 150 students among 2000+ NRI applicants from across several institutions of National Importance across the country. 
    - Ranked 40 out of the top 150 applicants, and among the 2 students of my college to have secured the scholarship.
 
-- **Kanak Khimji Award for Academic Excellence** || **Class 12** || **Class 10 **
+- **Kanak Khimji Award for Academic Excellence** **Class 12** **Class 10 **
 
    -  Awarded for having secured an excellent academic record in my Board Examinations and for having stood in the top 10% of all the exam takers in Muscat. Was awarded for both the times the All India board exams were conducted during my high school. 
 
