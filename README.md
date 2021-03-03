@@ -4,8 +4,8 @@
 Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting **Research Projects** in the intersection of **Medicine**, **Healthcare** and **Computer Science**. 
 
 ### What am I working on currently? 
-- **Working on building a Chess Game, something I have been passionate about creating owing to my never ending consuming pleasure I get from playing the game everyday ( although I am a noob at it xD) **
-- **Pursuing my 4th Semester, supposedly the most dreadful semesters of IIITD, 4th Math courses this sem to keep me occupied :) **
+- **Working on building a Chess Game, something I have been passionate about creating owing to my never ending consuming pleasure I get from playing the game everyday ( although I am a noob at it xD)**
+- **Pursuing my 4th Semester, supposedly the most dreadful semesters of IIITD, 4th Math courses this sem to keep me occupied :)**
 
 ### Personal Projects 
 - **Among Us Game Prototype** 
