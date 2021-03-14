@@ -20,6 +20,14 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
   - This is a **GUI** working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
   - [Source Code](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)
   
+### Bio-Informatics Projects 
+- **Global Alignment Sequence + Matrix between 2 DNA Sequences**
+  - Developed a program that generates the best Global Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Done in Python 
+- **Local Alignment Seqeunce + Matrix between 2 DNA Sequences** 
+  - Developed a program that generates the best Local Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Done in Python 
+
 ### Course Projects 
 
 - **Semester Project - Color Switch - Advanced Programming**
