@@ -85,6 +85,10 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 - The Unsustainability of Gentrification in India: The Need for Sustainable Urbanization for People, Not for Profit - [Article](https://docs.google.com/document/d/18qVU1Shb4EC4nztLU5Qn4ivBPhUuz4BOLXLUh3dg3JI/edit?usp=sharing)
 - Intersecional Analysis in Social Inequalities and Consumerism - [Article](https://docs.google.com/document/d/1x5u2gIyBuuLDwGioWeeFAbqQCq7rVFZBjPmoErfkKqg/edit?usp=sharing)
 
+### For fun
+
+- Tutorial on including the bits/stdc++.h header file in your MacOS System : [Tutorial Link](https://github.com/abhinavgudipati/headerFileCPPMac)
+
 ### Internship Experience 
 
 ![Image](https://i.postimg.cc/GpVQqXQR/Procter-Gamble-Logo.jpg)
