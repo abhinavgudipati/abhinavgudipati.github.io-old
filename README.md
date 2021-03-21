@@ -144,8 +144,6 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 - **Github**  *[abhinavgudipati](https://github.com/abhinavgudipati)*
 
-- **Instagram** *[abhinavvgudipatii](https://www.instagram.com/abhinavvgudipatii/)*
-
 - **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
 
 
