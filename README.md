@@ -133,11 +133,16 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### Positions of Responsibility
 
+- **Core Team Volunteer : Mentor for 1st Induction Students ( December 2020 - Present ) * 
 - **Student Council : CSAM Batch Representative** 
    - **Batch representative** of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
 - **Mess and Hostel Committee : 1st Year Reprsentative**
    - Was the student **POC** for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
  
+### Recent Achievements 
+
+- 1st Place in F(Laws) Debate : Cadence 2021 IIITD, March 2021
+
 ### Contact
 
 - **Linkedin** *[Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)*
