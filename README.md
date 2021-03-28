@@ -5,7 +5,7 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### What am I working on currently? 
 
-- **Exploring problem statements dealing with Machine Learning assisted Directed Evolution of Proteins.
+- **Exploring problem statements dealing with Machine Learning assisted Directed Evolution of Proteins.**
   
 ### Bio-Informatics Projects 
 
