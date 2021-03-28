@@ -5,8 +5,7 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### What am I working on currently? 
 
-- **Working on building a Chess Game, something I have been passionate about creating owing to my never ending consuming pleasure I get from playing the game everyday ( although I am a noob at it xD).**
-- **Pursuing my 4th Semester, supposedly the most dreadful semesters of IIITD, 4 Math courses this semester to keep me occupied :)**
+- **Exploring problem statements dealing with Machine Learning assisted Directed Evolution of Proteins.
   
 ### Bio-Informatics Projects 
 
