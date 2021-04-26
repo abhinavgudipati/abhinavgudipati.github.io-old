@@ -18,31 +18,25 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### Course Projects 
 
-- **Semester Project - Color Switch - Advanced Programming**
+- **[Semester Project - Color Switch - Advanced Programming](https://github.com/abhinavgudipati/ColorSwitch-1)**
   - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in **Java** and **JavaFx** interface. 
   - Used **Object Oriented Programming Principles** as well as **Data structures** for our project. 
-  - [Source Code](https://github.com/abhinavgudipati/ColorSwitch-1)
-- **Brick Breaker - Object Oriented Programming**
+- **[Brick Breaker - Object Oriented Programming](https://github.com/abhinavgudipati/Brick-Breaker)**
   - Developed a small brick breaking game to get myself acquainted with Java GUI and Javafx
-  - [Source Code](https://github.com/abhinavgudipati/Brick-Breaker)
-- **COVID Patient Management System**
+- **[COVID Patient Management System](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)**
   - This is a **GUI** working program. This means, there's an interactive Interface window which pops up when you run the source code in your system.
-  - [Source Code](https://github.com/abhinavgudipati/COVID-Patient-List-Management-System)
-- **Smart Walking Stick - Prototying Interactive Systems**
+- **[Smart Walking Stick - Prototying Interactive Systems](https://anoushka19235.wixsite.com/majorprojectt60)**
   - A **trio-group** project, where we collectively worked on creating a Smart Walking Stick which was selected among the projects to be showcased in an **IIT Delhi** Science Conclave which was supposed to be held in March 2020. The conclave was resinded owing to prevailing COVID situation. This project got us introduced to work ethic within a team, and more importantly created a lifetime's worth of memories owing to the uncompromising discussions and collaboration for the creation of our project. 
-  - [Website](https://anoushka19235.wixsite.com/majorprojectt60)
   - [Youtube Video](https://www.youtube.com/watch?v=ARQyX3yh9Os)
 
 ### Personal Projects 
 
-- **Among Us Game Prototype** 
+- **[Among Us Game Prototype](https://github.com/abhinavgudipati/AmongUs-Game)** 
   - Developed a perfectly working **prototype** of the Orginal **AmongUs** game. Developed in **Java**. 
   - This is a **Non-GUI** game. Which means you can play only on the **Terminal**.
-  - [Source Code](https://github.com/abhinavgudipati/AmongUs-Game)
-- **Healthcare Institute Management System**
+- **[Healthcare Institute Management System](https://github.com/abhinavgudipati/Healthcare-Management-System)**
   - Developed a perfectly working prototype of a normal Healthcare Institute Management System followed in Hospitals. Developed in **Java**
   - This is a **Non-GUI** working program. Which means you can play run it on the **Terminal**.
-  - [Source Code](https://github.com/abhinavgudipati/Healthcare-Management-System)
 
 
 ### Achievements 
