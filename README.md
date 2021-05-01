@@ -12,9 +12,9 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 - **[Implementation of the Chou Fasman method for secondary structure prediction](https://github.com/abhinavgudipati/IQB-A2)**
   - Developed a well commented python implementation of the above mentioned Algorithm that takes in input of a given protein sequence and returns an output   consisting of Alpha Helices, Beta Strands and empty regions denoted by Turns, 
 - **[Global Alignment Sequence + Matrix between 2 DNA Sequences](https://github.com/abhinavgudipati/IQB-A1)**
-  - Developed a program that generates the best Global Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Developed a program that generates the Global Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
 - **[Local Alignment Seqeunce + Matrix between 2 DNA Sequences](https://github.com/abhinavgudipati/IQB-A1)** 
-  - Developed a program that generates the best Local Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Developed a program that generates the Local Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
 
 ### Course Projects 
 
