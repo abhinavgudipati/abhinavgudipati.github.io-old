@@ -1,11 +1,7 @@
 ### About me  
 ![Image](https://i.postimg.cc/fyZbshKv/abhinav.jpg)
 
-Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math. I am presently targetting **Research Projects** in the intersection of **Medicine**, **Healthcare** and **Computer Science**. 
-
-### What am I working on currently? 
-
-- **Exploring problem statements dealing with Machine Learning assisted Directed Evolution of Proteins.**
+Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math.
   
 ### Bio-Informatics Projects 
 
