@@ -140,6 +140,12 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 - **Github**  *[abhinavgudipati](https://github.com/abhinavgudipati)*
 
+- **HackerNoon**  *[abhinavgudipati](https://hackernoon.com/u/abhinavgudipati)*
+
+- **Kaggle**  *[abhinavgudipati](https://www.kaggle.com/abhinavgudipati)*
+
+- **Twitter** *[AbhinavGudipati](https://twitter.com/AbhinavGudipati)*
+
 - **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
 
 
