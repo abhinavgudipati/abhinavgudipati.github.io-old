@@ -1,18 +1,24 @@
 ### About me  
 ![Image](https://i.postimg.cc/fyZbshKv/abhinav.jpg)
 
-Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am a Sophomore in IIIT Delhi, pursuing Computer Science and Applied Math.
-  
-### Bio-Informatics Projects 
+Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am currently a Junior in IIIT Delhi, pursuing Computer Science and Applied Math.
+
+### Machine Learning Projects ( 2022 ) ( Semester 6 , COMING SOON! )  
+
+### Statistical Machine Learning Projects ( 2022 ) ( Semester 6 , COMING SOON! )
+
+### Indepenedent Research Study on Indian Commodities Markets under Prof Pankaj Vajpayee ( 2022 )
+
+### Bio-Informatics Projects ( 2021 )
 
 - **[Implementation of the Chou Fasman method for secondary structure prediction](https://github.com/abhinavgudipati/IQB-A2)**
-  - Developed a well commented python implementation of the above mentioned Algorithm that takes in input of a given protein sequence and returns an output   consisting of Alpha Helices, Beta Strands and empty regions denoted by Turns, 
+  - Developed a well commented python implementation of the above mentioned Algorithm that takes in input of a given protein sequence and returns an output   consisting of Alpha Helices, Beta Strands and empty regions denoted by Turns,
 - **[Global Alignment Sequence + Matrix between 2 DNA Sequences](https://github.com/abhinavgudipati/IQB-A1)**
-  - Developed a program that generates the Global Alignment that results in sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Developed a program that generates the Global Alignment that results in sequence as well as the corresponding matrix associated with the 2 DNA input sequences.
 - **[Local Alignment Seqeunce + Matrix between 2 DNA Sequences](https://github.com/abhinavgudipati/IQB-A1)** 
-  - Developed a program that generates the Local Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences. 
+  - Developed a program that generates the Local Alignment sequence as well as the corresponding matrix associated with the 2 DNA input sequences.
 
-### Course Projects 
+### Course Projects ( 2019 - 2020 )
 
 - **[Semester Project - Color Switch - Advanced Programming](https://github.com/abhinavgudipati/ColorSwitch-1)**
   - Developed a perfectly working prototype of the Orginal Colorswitch game. Developed in **Java** and **JavaFx** interface. 
@@ -25,7 +31,7 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
   - A **trio-group** project, where we collectively worked on creating a Smart Walking Stick which was selected among the projects to be showcased in an **IIT Delhi** Science Conclave which was supposed to be held in March 2020. The conclave was resinded owing to prevailing COVID situation. This project got us introduced to work ethic within a team, and more importantly created a lifetime's worth of memories owing to the uncompromising discussions and collaboration for the creation of our project. 
   - [Youtube Video](https://www.youtube.com/watch?v=ARQyX3yh9Os)
 
-### Personal Projects 
+### Personal Projects ( 2020 )
 
 - **[Among Us Game Prototype](https://github.com/abhinavgudipati/AmongUs-Game)** 
   - Developed a perfectly working **prototype** of the Orginal **AmongUs** game. Developed in **Java**. 
@@ -54,46 +60,54 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### Positions of Responsibility
 
-- **INDUCTION 2020: Mentor for 1st Students ( December 2020 - Present )**
-   - Responsible for the mentoring of 20 first year students from the Btech 2024 batch of IIITD. 
+- **Management Head | Google Developer Students Clubs (November 2021 - Present)**
+   - Currently managing the front end domains of sponsorships, public relations and content writing departments of one of the most active autonomous student-run clubs of IIITD.  
+- **Self Growth & Community Work Coordinator | Student Senate IIITD (July 2021 - Present )**
+   - Devoted to prompt functioning and completion of the mandatory SG & CW credits, part of the curriculum of every Btech graduate. 
+- **Outreach Associate | Student Senate IIITD ( September 2021 - Present )** 
+   - Part of a seven-member team that is responsible for expanding the reach of our college over social media through addressing concerns of prospective students interested in taking admission to IIITD. Most recently, I single-handedly hosted the flagship annual outreach event of IIITD for upcoming students, the Open House. Handled a footfall of 500 students & parents through addressing concerns about the culture of IIIT Delhi.
+- **INDUCTION 2020: Mentor for 1st Students ( December 2020 - April 2021 )**
+   - Responsible for the mentoring of 20 first year students from the Btech 2024 batch of IIITD.
 - **LitSoc Core Team Member handling Events**
 - **Student Council : CSAM Batch Representative** 
-   - **Batch representative** of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students. 
+   - **Batch representative** of CSAM 2019-2020 in the Student Council. I was a part of the council which is held responsible for voicing out the concerns and the on-goings of day to day activities in the institution for the benefit of the students.
 - **Mess and Hostel Committee : 1st Year Reprsentative**
-   - Was the student **POC** for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020. 
- 
-### Recent Achievements 
+   - Was the student **POC** for all the Mess and Hostel related issues my peers were facing during their stay in Campus from September 2019 - March 2020.
+
+### Recent Achievements
 
 - 1st Place in F(Laws) Debate : Cadence 2021 IIITD, March 2021
 
-### Computer Science Coursework 
+### Relevant Coursework 
 
-- Quantitative Biology - Computational Bio 
-- Analysis and Design of Algorithms - CSE 
-- Theory of Computation - CSE 
-- Probability and Statistics 
-- Advanced Programming : CSE 
-- Operating Systems : CSE 
-- Data Structures and Algorithms : CSE
-- Computere Organization : CSE 
-- Introduction to Programming : CSE 
-- Prototyping Interactive Systems : DES 
+- Quantitative Biology - Computational Bio (Semester 4)
+- Analysis and Design of Algorithms - CSE (Semester 4)
+- Theory of Computation - CSE (Semester 4)
+- Probability and Statistics (Semester 2)
+- Advanced Programming : CSE (Semester 3)
+- Operating Systems : CSE (Semester 3)
+- Data Structures and Algorithms : CSE (Semester 2)
+- Computer Organization : CSE (Semester 2)
+- Introduction to Programming : CSE (Semester 1)
+- Prototyping Interactive Systems : DES (Semester 1)
 
 ### Math Coursework 
 
-- Discrete Structures : Math 
-- Real Analysis : Math
-- Adv Differential Equations - Math 
-- Abstract Algebra - Math
-- Linear Algebra - Math
+- Discrete Structures : Math (Semester 3)
+- Real Analysis : Math (Semester 3)
+- Adv Differential Equations - Math (Semester 3)
+- Abstract Algebra - Math (Semester 4)
+- Linear Algebra - Math (Semester 1)
 
 ### Economics and Sociology related coursework 
 
-- Consumer Culture and Society 
-- Key Concepts in Economic Sociology 
+- Urban Planning and Political Power
+- Consumer Culture and Society
+- Key Concepts in Economic Sociology
 
 ### My writing projects 
 
+- Independent Research Study on Algorithmic Bias :- "With Great Code Begets Greater Responsibility" - [Article](https://docs.google.com/document/d/1SAWHEnfLiYq0pdE1IgViitUNHnNthTWqDq1JV1cXVTg/edit?usp=sharing)
 - Gender Specific Rights for India's White Collar Jobs - [Article](https://docs.google.com/document/d/1GYq4dZ2kMJE2w0Uh60G_nq3W1q-mrBHq_h9MFl4ook8/edit?usp=sharing)
 - Case Study of Truth and Malfeasance : Theranos - [Article](https://docs.google.com/document/d/16eZdVhvulQopsvFMkspikCSbr6QFHqzc8H9HfGhpnj4/edit?usp=sharing)
 - Sociological Perspective of the Impact of Demonetization as a Policy - [Article](https://docs.google.com/document/d/1oOPskJLzVb0IODeNgVZS_2s2KBDjKp7vdYMH_jcEc_Q/edit?usp=sharing)
@@ -115,13 +129,16 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 - **Proctor & Gamble** 
   - Pursued a **2-month apprenticeship/internship** in the field of **Supply Chain Management** post my Board Examinations. Meticulously documented my observations as a part of the Internship Project along with 3 other case studies involving large hypermarkets and their model of functioning in accordance with the Supply Chain of goods. 
 
+### Entrepreunarial Experience
+
+- **Casually Serious Podcast**
+  - Pursued a 8 month creative sabbatical in between my 4th and 6th Semester towards producing 18 high quality podcast episodes. 
+  
 ### Education
 
 - **BTech** : **IIIT Delhi** : **Computer Science and Applied Math** 
 
-  - Pursuing my Bachelor's in engineering degree in one of the **top 10 institutes** for **Computer Science** in India. 
-  - **Major** : Computer Science and Applied Math
-  - Aspiring to secure a **minor** in **Computational Biology** towards the last couple of semesters. 
+  - Pursuing my Bachelor's of Technology degree in one of the **top 10 institutes** for **Computer Science** in India.
 
 - **CBSE Class 12** : **Indian School Muscat,Oman** 
 
@@ -129,10 +146,10 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
   - **Subjects** - Math, Physics, Chemistry, Engineering Graphics, English.
   - Scored a perfect *100/100* in **Engineering Graphics**.
 
-- **CBSE Class 10** : **Indian School Muscat,Oman** 
+- **CBSE Class 10** : **Indian School Muscat,Oman**
 
   - **CGPA** : 10 CGPA  
-  - *A1* in all the Subjects. 
+  - *A1* in all the Subjects.
 
 ### Contact
 
@@ -144,9 +161,9 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 - **Kaggle**  *[abhinavgudipati](https://www.kaggle.com/abhinavgudipati)*
 
-- **Twitter** *[AbhinavGudipati](https://twitter.com/AbhinavGudipati)*
-
 - **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
+
+- **Personal Email** *[gabhinavsiddharth@gmail.com](gabhinavsiddharth@gmail.com)*
 
 
 
