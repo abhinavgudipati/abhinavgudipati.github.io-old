@@ -154,18 +154,13 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### Contact
 
-- **Linkedin** *[Abhinav Gudipati](https://www.linkedin.com/in/abhinav-gudipati-609794197/)*
+- **Linkedin** *[Abhinav Gudipati](https://www.linkedin.com/in/abhinavgudipati)*
 
 - **Github**  *[abhinavgudipati](https://github.com/abhinavgudipati)*
-
-- **HackerNoon**  *[abhinavgudipati](https://hackernoon.com/u/abhinavgudipati)*
-
-- **Kaggle**  *[abhinavgudipati](https://www.kaggle.com/abhinavgudipati)*
 
 - **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
 
 - **Personal Email** *[gabhinavsiddharth@gmail.com](gabhinavsiddharth@gmail.com)*
-
 
 
 
