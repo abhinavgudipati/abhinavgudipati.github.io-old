@@ -60,13 +60,13 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 
 ### Positions of Responsibility
 
-- **Management Head ***Google Developer Students Clubs*** (November 2021 - Present)**
+- **Management Head :- Google Developer Students Clubs (November 2021 - Present)**
    - Currently managing the front end domains of sponsorships, public relations and content writing departments of one of the most active autonomous student-run clubs of IIITD.  
-- **Self Growth & Community Work Coordinator ***Student Senate IIITD*** (July 2021 - Present )**
+- **Self Growth & Community Work Coordinator :- Student Senate IIITD (July 2021 - Present )**
    - Devoted to prompt functioning and completion of the mandatory SG & CW credits, part of the curriculum of every Btech graduate. 
-- **Outreach Associate ***Student Senate IIITD*** ( September 2021 - Present )** 
+- **Outreach Associate :- Student Senate IIITD( September 2021 - Present )** 
    - Part of a seven-member team that is responsible for expanding the reach of our college over social media through addressing concerns of prospective students interested in taking admission to IIITD. Most recently, I single-handedly hosted the flagship annual outreach event of IIITD for upcoming students, the Open House. Handled a footfall of 500 students & parents through addressing concerns about the culture of IIIT Delhi.
-- **INDUCTION 2020: Mentor for 1st Students ***Student Council*** ( December 2020 - April 2021 )**
+- **INDUCTION 2020: Mentor for 1st Students :- Student Council ( December 2020 - April 2021 )**
    - Responsible for the mentoring of 20 first year students from the Btech 2024 batch of IIITD.
 - **Entrepreneurship Cell IIITD :-Board Member**
 - **LitSoc Core Team Member handling Events**
@@ -161,6 +161,4 @@ Hi there! Welcome to my **Personal Website**, where I host all my projects and m
 - **Work Email**  *[abhinav19227@iiitd.ac.in](abhinav19227@iiitd.ac.in)*
 
 - **Personal Email** *[gabhinavsiddharth@gmail.com](gabhinavsiddharth@gmail.com)*
-
-
 
