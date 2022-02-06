@@ -1,14 +1,14 @@
 ### About me  
 
-Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am currently a Junior in IIIT Delhi, pursuing Computer Science and Applied Math. Mentioned herewith are some of the activities and computer science projects I am actively working on at the moment, will be deploying them simultaneously as and when I am completing them. 
+Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am currently a Junior in IIIT Delhi, pursuing Computer Science and Applied Math. Mentioned herewith are some of the activities and computer science projects I have previously worked with as well as actively working on at the moment, for the ones that aren't supplied with a link, I will be actively deploying them simultaneously as and when I am completing them. 
 
 ### Machine Learning Projects ( 2022 ) ( Semester 6 , COMING SOON! )  
 
 ### Statistical Machine Learning Projects ( 2022 ) ( Semester 6 , COMING SOON! )
 
-### Indepenedent Research Study on Indian Commodities Markets under Prof Pankaj Vajpayee ( 2022 )
+### Indepenedent Research Study on Indian Commodities Markets under Prof Pankaj Vajpayee ( 2022 ) ( In the works ) 
 
-### Bio-Informatics Projects ( 2021 )
+### Bio-Informatics Projects ( Python )( 2021 )
 
 - **[Implementation of the Chou Fasman method for secondary structure prediction](https://github.com/abhinavgudipati/IQB-A2)**
   - Developed a well commented python implementation of the above mentioned Algorithm that takes in input of a given protein sequence and returns an output   consisting of Alpha Helices, Beta Strands and empty regions denoted by Turns,
