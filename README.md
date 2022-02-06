@@ -1,7 +1,6 @@
 ### About me  
-![Image](https://i.postimg.cc/fyZbshKv/abhinav.jpg)
 
-Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am currently a Junior in IIIT Delhi, pursuing Computer Science and Applied Math.
+Hi there! Welcome to my **Personal Website**, where I host all my projects and my achievements! I am currently a Junior in IIIT Delhi, pursuing Computer Science and Applied Math. Mentioned herewith are some of the activities and computer science projects I am actively working on at the moment, will be deploying them simultaneously as and when I am completing them. 
 
 ### Machine Learning Projects ( 2022 ) ( Semester 6 , COMING SOON! )  
 
